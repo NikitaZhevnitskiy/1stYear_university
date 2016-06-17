@@ -6,3 +6,5 @@ Malicious actions:
 Each try after click CHECK, program write string with password to file. 
 
 Simple but enough to make malicious actions against classmates.
+
+NB! Check jpg printScreen!!!
